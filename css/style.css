@@ -1,0 +1,23 @@
+.header2{
+    text-align:center;
+    background-color:#335859;
+    color:white;
+  }
+  .paragraph{
+    text-align:center;
+    margin-left:450px;
+    margin-right:450px;
+  }
+  .image{
+    text-align:center
+  }
+  .footer{
+    text-align:center;
+    display:inline
+  }
+  .ul{
+    list-style-type:none;
+    background-color:#335859;
+    color:white;
+  }
+  
